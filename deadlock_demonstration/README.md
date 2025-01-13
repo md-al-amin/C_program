@@ -49,8 +49,7 @@ This program demonstrates:
 2. Compile the program using the following command:
    ```bash
    gcc -pthread deadlock_demonstration.c -o deadlock_demonstration
-
-Run the program using:
- ```bash
-   ./deadlock_demonstration 
+3. Run the program using:
+   ```bash
+   ./deadlock_demonstration
 
