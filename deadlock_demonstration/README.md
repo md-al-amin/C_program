@@ -52,11 +52,5 @@ This program demonstrates:
 
 Run the program using:
  ```bash
-   ./deadlock_demonstration
----
-
-## Example Output
-### Prerequisites
-
-
+   ./deadlock_demonstration 
 
